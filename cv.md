@@ -29,12 +29,14 @@ ALchevsk, Ukraine
 service department. I had three co-worker subordinates. I
 taught hundreds of customers how to work with a cash register
 correctly and don't have any problem with the tax inspector."
+
 #### Education:
 * **Bachelor's degree**
 Donbas Mining Metallurgical Institute
 1992 - 1996
 Bachelor of "Automation of technological processes and
 productions".
+
 #### Certification:
  * Certixed of JavaScript Algorithms and Data Structures
 **freeCodeCamp**
@@ -49,9 +51,11 @@ Issued: Apr 2020, No Expiration Date.
 **Busuu**
 Issued: Jan 2019, No Expiration Date
 [See credential](https://api.busuu.com/anon/certificates/309b1c1cc18b14b380e932d69eb99456)
+
 #### Languages:
 * **Ukrainian, Russian** - Native, C2
 * **English** - Intermediate, B1
+
 #### Interests:
   I like traveling, fishing, hiking and camping with a tent.
 I am passionate about SpaceX and follow all their launches and
