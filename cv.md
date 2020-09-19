@@ -6,7 +6,7 @@
 
 **[Github](https://github.com/PechPavlo)**
 ---
-**I am a junior JavaScript developer seeking an entry-level position with Company to use my skills in coding.**
+**I am a Junior JavaScript Front-End developer seeking an entry-level position with Company to use my skills in coding. I am going to start working as a Junior Front-End Developer in IT product this year. My goal to be in a space, where people do huge useful things and make high demands on themselves.**
 #### Skills:
 Javascript/ES5/ES6, HTML/CSS3, Git, React.js.
 #### Experience:
